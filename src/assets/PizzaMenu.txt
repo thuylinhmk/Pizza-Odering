@@ -1,0 +1,7 @@
+PizzaMenu 2
+
+bacon, chicken, beef, ham, pepperoni, sausage, prawn
+red onions, carolina reapers, peppers, olives, onions, chillies, jalapenos, pineapple
+
+Flaming Hot [chillies, jalapenos, carolina reapers, onions]
+Meat Feast [bacon, pepperoni, sausage, beef, chicken]
