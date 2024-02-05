@@ -1,2 +1,2 @@
 # Pizza-Odering
-App for pizza ordering
+ Mini java coding project (back-end) for ordering pizza, add-on toping, menu with GUI.
